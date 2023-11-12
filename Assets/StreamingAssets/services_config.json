@@ -1,6 +1,6 @@
 {
-  "OpenAI_APIKey": "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",
-  "AzureVoiceSubscriptionKey": "dc5a3cb8afb54868b98c0c738cb53424",
+  "OpenAI_APIKey": "YOUR_API_KEY_HERE",
+  "AzureVoiceSubscriptionKey": "YOUR_API_KEY_HERE",
   "AzureVoiceRegion": "eastus"
 }
 
