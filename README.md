@@ -79,3 +79,5 @@ Looking ahead, we plan to enhance MindScapeAI with better models for even more f
 ## 👥 Authors
 
 - [Mehul Srivastava](https://www.linkedin.com/in/msrivas7/)
+- [Hriday Shah](https://www.linkedin.com/in/hridayshah)
+- [Bhanu Reddy](https://www.linkedin.com/in/bhanu-reddy-chada)
