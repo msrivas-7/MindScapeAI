@@ -48,17 +48,6 @@ Review setup instructions for these repositories:
 }
 ```
 
-### Known Issues & Solutions
-
-Sometimes on the first time opening the project, you might get the following error message: "Multiple precompiled assemblies with the same name Newtonsoft.Json.dll included on the current platform." This error occurs because Unity enforces a Newtonsoft import due to its services.core dependency. To resolve this error:
-
-1. Close the project
-2. Open the file explorer and navigate to `\Library\PackageCache\com.oshoham.unity-google-cloud-streaming-speech-to-text@0.1.8\Plugins`
-3. Delete the `Newtonsoft.dll` file
-4. Reopen the project and hit "Ignore"
-5. Delete `Newtonsoft.dll` again from the same location
-6. The import should now complete.
-
 ## 🎮 Usage
 
 After setting up, run the scene to interact with the AI NPC. Ask questions and experience the AI's responses in an immersive VR environment.
